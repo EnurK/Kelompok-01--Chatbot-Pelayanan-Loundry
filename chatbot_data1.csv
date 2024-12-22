@@ -1,0 +1,215 @@
+Tag,Pattern,Response
+salam,Hai,Hai :-)
+salam,Hai,"Halo, terima kasih sudah berkunjung"
+salam,Hai,"Hai, ada yang bisa saya bantu?"
+salam,Hai,"Halo, bagaimana saya bisa membantu Anda?"
+salam,Hai,Ada sesuatu yang bisa saya bantu.
+salam,Halo,Hai :-)
+salam,Halo,"Halo, terima kasih sudah berkunjung"
+salam,Halo,"Hai, ada yang bisa saya bantu?"
+salam,Halo,"Halo, bagaimana saya bisa membantu Anda?"
+salam,Halo,Ada sesuatu yang bisa saya bantu.
+salam,Apa kabar,Hai :-)
+salam,Apa kabar,"Halo, terima kasih sudah berkunjung"
+salam,Apa kabar,"Hai, ada yang bisa saya bantu?"
+salam,Apa kabar,"Halo, bagaimana saya bisa membantu Anda?"
+salam,Apa kabar,Ada sesuatu yang bisa saya bantu.
+salam,Ada orang di sana?,Hai :-)
+salam,Ada orang di sana?,"Halo, terima kasih sudah berkunjung"
+salam,Ada orang di sana?,"Hai, ada yang bisa saya bantu?"
+salam,Ada orang di sana?,"Halo, bagaimana saya bisa membantu Anda?"
+salam,Ada orang di sana?,Ada sesuatu yang bisa saya bantu.
+salam,Selamat siang,Hai :-)
+salam,Selamat siang,"Halo, terima kasih sudah berkunjung"
+salam,Selamat siang,"Hai, ada yang bisa saya bantu?"
+salam,Selamat siang,"Halo, bagaimana saya bisa membantu Anda?"
+salam,Selamat siang,Ada sesuatu yang bisa saya bantu.
+perpisahan,Dah,Bye! Kembali lagi ya.
+perpisahan,Dah,"Sampai jumpa, terima kasih sudah berkunjung"
+perpisahan,Dah,"Senang bertemu dengan Anda, semoga kita bertemu lagi."
+perpisahan,Bye,Bye! Kembali lagi ya.
+perpisahan,Bye,"Sampai jumpa, terima kasih sudah berkunjung"
+perpisahan,Bye,"Senang bertemu dengan Anda, semoga kita bertemu lagi."
+perpisahan,Sampai jumpa lagi,Bye! Kembali lagi ya.
+perpisahan,Sampai jumpa lagi,"Sampai jumpa, terima kasih sudah berkunjung"
+perpisahan,Sampai jumpa lagi,"Senang bertemu dengan Anda, semoga kita bertemu lagi."
+perpisahan,Selamat tinggal,Bye! Kembali lagi ya.
+perpisahan,Selamat tinggal,"Sampai jumpa, terima kasih sudah berkunjung"
+perpisahan,Selamat tinggal,"Senang bertemu dengan Anda, semoga kita bertemu lagi."
+terima_kasih,Terima kasih,Senang bisa membantu!
+terima_kasih,Terima kasih,Dengan senang hati
+terima_kasih,Terima kasih,"Jangan sungkan, saya lebih berterima kasih Anda sudah menghubungi kami."
+terima_kasih,Terima kasih,Tentu! Anda bisa menghubungi kami kapan saja.
+terima_kasih,Makasih,Senang bisa membantu!
+terima_kasih,Makasih,Dengan senang hati
+terima_kasih,Makasih,"Jangan sungkan, saya lebih berterima kasih Anda sudah menghubungi kami."
+terima_kasih,Makasih,Tentu! Anda bisa menghubungi kami kapan saja.
+terima_kasih,Itu sangat membantu,Senang bisa membantu!
+terima_kasih,Itu sangat membantu,Dengan senang hati
+terima_kasih,Itu sangat membantu,"Jangan sungkan, saya lebih berterima kasih Anda sudah menghubungi kami."
+terima_kasih,Itu sangat membantu,Tentu! Anda bisa menghubungi kami kapan saja.
+terima_kasih,Banyak terima kasih!,Senang bisa membantu!
+terima_kasih,Banyak terima kasih!,Dengan senang hati
+terima_kasih,Banyak terima kasih!,"Jangan sungkan, saya lebih berterima kasih Anda sudah menghubungi kami."
+terima_kasih,Banyak terima kasih!,Tentu! Anda bisa menghubungi kami kapan saja.
+pakaian,Apa layanan yang Anda tawarkan?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Apa layanan yang Anda tawarkan?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Apa layanan yang Anda tawarkan?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pakaian,Jenis layanan apa saja yang tersedia?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Jenis layanan apa saja yang tersedia?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Jenis layanan apa saja yang tersedia?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pakaian,Ada layanan apa saja?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Ada layanan apa saja?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Ada layanan apa saja?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pakaian,Apa yang bisa saya dapatkan dari Anda?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Apa yang bisa saya dapatkan dari Anda?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Apa yang bisa saya dapatkan dari Anda?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pakaian,Layanan apa saja yang ada?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Layanan apa saja yang ada?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Layanan apa saja yang ada?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pakaian,Apa saja yang tersedia di laundry Anda?,"Kami menyediakan layanan cuci biasa, cuci kering, setrika, dan dry cleaning."
+pakaian,Apa saja yang tersedia di laundry Anda?,"Anda bisa mendapatkan layanan cuci biasa, cuci kering, serta dry cleaning."
+pakaian,Apa saja yang tersedia di laundry Anda?,"Kami menawarkan layanan laundry lengkap seperti cuci, setrika, dan dry cleaning."
+pembayaran,Apakah Anda menerima kartu kredit?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Apakah Anda menerima kartu kredit?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Apakah Anda menerima kartu kredit?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Apakah Anda menerima kartu kredit?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pembayaran,Apakah saya bisa membayar lewat Paytm?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Apakah saya bisa membayar lewat Paytm?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Apakah saya bisa membayar lewat Paytm?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Apakah saya bisa membayar lewat Paytm?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pembayaran,Bisakah saya membayar dengan Google Pay?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Bisakah saya membayar dengan Google Pay?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Bisakah saya membayar dengan Google Pay?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Bisakah saya membayar dengan Google Pay?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pembayaran,Hanya menerima pembayaran tunai?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Hanya menerima pembayaran tunai?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Hanya menerima pembayaran tunai?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Hanya menerima pembayaran tunai?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pembayaran,Apakah Anda menerima pembayaran online?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Apakah Anda menerima pembayaran online?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Apakah Anda menerima pembayaran online?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Apakah Anda menerima pembayaran online?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pembayaran,Bisakah saya bayar saat pengambilan?,"Kami menerima pembayaran melalui Paytm, Google Pay, dan COD (bayar saat pengambilan)."
+pembayaran,Bisakah saya bayar saat pengambilan?,"Anda bisa membayar dengan Paytm, Google Pay, atau tunai."
+pembayaran,Bisakah saya bayar saat pengambilan?,"Jika Anda tidak menggunakan metode pembayaran online, Anda bisa membayar secara tunai, atau menggunakan Paytm dan Google Pay."
+pembayaran,Bisakah saya bayar saat pengambilan?,"Untuk kenyamanan pelanggan, kami menerima pembayaran dengan Paytm, Google Pay, dan tunai."
+pengiriman,Apakah Anda menyediakan layanan antar-jemput?,Kami menyediakan layanan antar-jemput untuk kenyamanan Anda.
+pengiriman,Apakah Anda menyediakan layanan antar-jemput?,Tentu saja! Kami dapat mengambil pakaian Anda dan mengantarkannya setelah selesai.
+pengiriman,Apakah Anda menyediakan layanan antar-jemput?,"Bisa, kami menyediakan layanan antar-jemput gratis dalam area tertentu."
+pengiriman,Apakah Anda melakukan pengambilan dan pengantaran?,Kami menyediakan layanan antar-jemput untuk kenyamanan Anda.
+pengiriman,Apakah Anda melakukan pengambilan dan pengantaran?,Tentu saja! Kami dapat mengambil pakaian Anda dan mengantarkannya setelah selesai.
+pengiriman,Apakah Anda melakukan pengambilan dan pengantaran?,"Bisa, kami menyediakan layanan antar-jemput gratis dalam area tertentu."
+pengiriman,Apakah layanan pengantaran tersedia?,Kami menyediakan layanan antar-jemput untuk kenyamanan Anda.
+pengiriman,Apakah layanan pengantaran tersedia?,Tentu saja! Kami dapat mengambil pakaian Anda dan mengantarkannya setelah selesai.
+pengiriman,Apakah layanan pengantaran tersedia?,"Bisa, kami menyediakan layanan antar-jemput gratis dalam area tertentu."
+pengiriman,Bisakah pakaian saya diantar?,Kami menyediakan layanan antar-jemput untuk kenyamanan Anda.
+pengiriman,Bisakah pakaian saya diantar?,Tentu saja! Kami dapat mengambil pakaian Anda dan mengantarkannya setelah selesai.
+pengiriman,Bisakah pakaian saya diantar?,"Bisa, kami menyediakan layanan antar-jemput gratis dalam area tertentu."
+spesial,Apa layanan spesial Anda?,Kami merekomendasikan layanan dry cleaning untuk pakaian khusus Anda.
+spesial,Apa layanan spesial Anda?,Dry cleaning adalah pilihan terbaik untuk menjaga kualitas pakaian Anda.
+spesial,Apa layanan spesial Anda?,"Anda harus mencoba layanan express kami, hasilnya cepat dan berkualitas tinggi."
+spesial,Apa layanan spesial Anda?,"Untuk pakaian yang membutuhkan perawatan ekstra, dry cleaning adalah pilihan terbaik."
+spesial,Apakah ada penawaran khusus?,Kami merekomendasikan layanan dry cleaning untuk pakaian khusus Anda.
+spesial,Apakah ada penawaran khusus?,Dry cleaning adalah pilihan terbaik untuk menjaga kualitas pakaian Anda.
+spesial,Apakah ada penawaran khusus?,"Anda harus mencoba layanan express kami, hasilnya cepat dan berkualitas tinggi."
+spesial,Apakah ada penawaran khusus?,"Untuk pakaian yang membutuhkan perawatan ekstra, dry cleaning adalah pilihan terbaik."
+spesial,Apa yang Anda rekomendasikan?,Kami merekomendasikan layanan dry cleaning untuk pakaian khusus Anda.
+spesial,Apa yang Anda rekomendasikan?,Dry cleaning adalah pilihan terbaik untuk menjaga kualitas pakaian Anda.
+spesial,Apa yang Anda rekomendasikan?,"Anda harus mencoba layanan express kami, hasilnya cepat dan berkualitas tinggi."
+spesial,Apa yang Anda rekomendasikan?,"Untuk pakaian yang membutuhkan perawatan ekstra, dry cleaning adalah pilihan terbaik."
+spesial,Ada promo hari ini?,Kami merekomendasikan layanan dry cleaning untuk pakaian khusus Anda.
+spesial,Ada promo hari ini?,Dry cleaning adalah pilihan terbaik untuk menjaga kualitas pakaian Anda.
+spesial,Ada promo hari ini?,"Anda harus mencoba layanan express kami, hasilnya cepat dan berkualitas tinggi."
+spesial,Ada promo hari ini?,"Untuk pakaian yang membutuhkan perawatan ekstra, dry cleaning adalah pilihan terbaik."
+spesial,Rekomendasikan layanan terbaik Anda.,Kami merekomendasikan layanan dry cleaning untuk pakaian khusus Anda.
+spesial,Rekomendasikan layanan terbaik Anda.,Dry cleaning adalah pilihan terbaik untuk menjaga kualitas pakaian Anda.
+spesial,Rekomendasikan layanan terbaik Anda.,"Anda harus mencoba layanan express kami, hasilnya cepat dan berkualitas tinggi."
+spesial,Rekomendasikan layanan terbaik Anda.,"Untuk pakaian yang membutuhkan perawatan ekstra, dry cleaning adalah pilihan terbaik."
+harga_cuci_biasa,Harga cuci biasa Berapa?,Harganya adalah Rp.10.000 per kilogram.
+harga_cuci_biasa,Harga cuci biasa Berapa?,"Untuk cuci biasa, biayanya Rp.10.000 per kilogram."
+harga_cuci_biasa,Harga cuci biasa Berapa?,Tarifnya adalah Rp.10.000/kg untuk layanan cuci biasa.
+harga_cuci_biasa,Boleh tahu harga untuk cuci biasa?,Harganya adalah Rp.10.000 per kilogram.
+harga_cuci_biasa,Boleh tahu harga untuk cuci biasa?,"Untuk cuci biasa, biayanya Rp.10.000 per kilogram."
+harga_cuci_biasa,Boleh tahu harga untuk cuci biasa?,Tarifnya adalah Rp.10.000/kg untuk layanan cuci biasa.
+harga_cuci_biasa,Berapa biaya untuk layanan cuci biasa?,Harganya adalah Rp.10.000 per kilogram.
+harga_cuci_biasa,Berapa biaya untuk layanan cuci biasa?,"Untuk cuci biasa, biayanya Rp.10.000 per kilogram."
+harga_cuci_biasa,Berapa biaya untuk layanan cuci biasa?,Tarifnya adalah Rp.10.000/kg untuk layanan cuci biasa.
+harga_cuci_biasa,Apa harga cuci biasa?,Harganya adalah Rp.10.000 per kilogram.
+harga_cuci_biasa,Apa harga cuci biasa?,"Untuk cuci biasa, biayanya Rp.10.000 per kilogram."
+harga_cuci_biasa,Apa harga cuci biasa?,Tarifnya adalah Rp.10.000/kg untuk layanan cuci biasa.
+harga_cuci_biasa,Berapa tarif untuk cuci biasa?,Harganya adalah Rp.10.000 per kilogram.
+harga_cuci_biasa,Berapa tarif untuk cuci biasa?,"Untuk cuci biasa, biayanya Rp.10.000 per kilogram."
+harga_cuci_biasa,Berapa tarif untuk cuci biasa?,Tarifnya adalah Rp.10.000/kg untuk layanan cuci biasa.
+harga_dry_cleaning,Berapa harga dry cleaning?,"Harganya mulai dari Rp.30.000 per item, tergantung jenis pakaian."
+harga_dry_cleaning,Berapa harga dry cleaning?,"Untuk dry cleaning, biayanya Rp.30.000/item untuk pakaian standar."
+harga_dry_cleaning,Berapa harga dry cleaning?,"Tarif dry cleaning adalah Rp.30.000/item, dan bisa lebih untuk bahan khusus."
+harga_dry_cleaning,Boleh tahu biaya untuk dry cleaning?,"Harganya mulai dari Rp.30.000 per item, tergantung jenis pakaian."
+harga_dry_cleaning,Boleh tahu biaya untuk dry cleaning?,"Untuk dry cleaning, biayanya Rp.30.000/item untuk pakaian standar."
+harga_dry_cleaning,Boleh tahu biaya untuk dry cleaning?,"Tarif dry cleaning adalah Rp.30.000/item, dan bisa lebih untuk bahan khusus."
+harga_dry_cleaning,Berapa yang harus saya bayar untuk dry cleaning?,"Harganya mulai dari Rp.30.000 per item, tergantung jenis pakaian."
+harga_dry_cleaning,Berapa yang harus saya bayar untuk dry cleaning?,"Untuk dry cleaning, biayanya Rp.30.000/item untuk pakaian standar."
+harga_dry_cleaning,Berapa yang harus saya bayar untuk dry cleaning?,"Tarif dry cleaning adalah Rp.30.000/item, dan bisa lebih untuk bahan khusus."
+harga_dry_cleaning,Apa harga dry cleaning?,"Harganya mulai dari Rp.30.000 per item, tergantung jenis pakaian."
+harga_dry_cleaning,Apa harga dry cleaning?,"Untuk dry cleaning, biayanya Rp.30.000/item untuk pakaian standar."
+harga_dry_cleaning,Apa harga dry cleaning?,"Tarif dry cleaning adalah Rp.30.000/item, dan bisa lebih untuk bahan khusus."
+harga_dry_cleaning,Berapa tarif untuk dry cleaning?,"Harganya mulai dari Rp.30.000 per item, tergantung jenis pakaian."
+harga_dry_cleaning,Berapa tarif untuk dry cleaning?,"Untuk dry cleaning, biayanya Rp.30.000/item untuk pakaian standar."
+harga_dry_cleaning,Berapa tarif untuk dry cleaning?,"Tarif dry cleaning adalah Rp.30.000/item, dan bisa lebih untuk bahan khusus."
+jadwal,Jam berapa buka?,Kami buka setiap hari dari pukul delapa pagi sampai jam delapan malam.
+jadwal,Berapa jam operasional?,Jam operasional kami adalah 08.00 pagi sampai 20.00 malam.
+jadwal,Jam berapa buka?,Dari jam 08.00 pagi sampai 20.00 malam.
+jadwal,Jam berapa tutup?,Kami tutup jam 20.00 malam.
+jadwal,Berapa lama waktu pengerjaan?,"Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja, Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja."
+jadwal,Berapa lama proses laundry?,"Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja, Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja."
+jadwal,Buka jam berapa?,Kami buka setiap hari dari pukul delapa pagi sampai jam delapan malam.
+jadwal,Berapa jam operasional?,Jam operasional kami adalah 08.00 pagi sampai 20.00 malam.
+jadwal,Buka dari jam berapa?,Dari jam 08.00 pagi sampai 20.00 malam.
+jadwal,Tutup jam berapa?,Kami tutup jam 20.00 malam.
+jadwal,Berapa lama waktu pengerjaan?,"Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja, Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja."
+jadwal,Berapa lama proses laundry?,"Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja, Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja."
+jadwal,Kapan tempat ini buka?,Kami buka setiap hari dari pukul delapa pagi sampai jam delapan malam.
+jadwal,Kapan tempat ini buka?,Jam operasional kami adalah 08.00 pagi sampai 20.00 malam.
+jadwal,Kapan tempat ini buka?,Dari jam 08.00 pagi sampai 20.00 malam.
+jadwal,Kapan tempat ini tutup?,Kami tutup jam 20.00 malam.
+jadwal,berapa lama proses loundry?,Proses laundry biasa memakan waktu 1-2 hari kerja.
+jadwal,berapa lama proses dry cleaning?,"Untuk dry cleaning, waktu proses sekitar 2-3 hari kerja."
+kontak,Berapa nomor teleponnya?,Anda bisa menghubungi kami di 0812-3456-7890.
+kontak,Alamat lengkapnya di mana?,"Alamat kami di Jl. Laundry No.123, Jakarta Selatan."
+kontak,Punya WhatsApp?,Anda bisa chat kami di WhatsApp 0812-3456-7890.
+kontak,Email perusahaannya apa?,Email resmi kami adalah layanan@laundrykita.com
+kontak,ada media sosial?,Media sosial kami tersedia di Instagram @laundrykita
+kontak,Cara menghubungi customer service?,Anda bisa menghubungi kami di 0812-3456-7890.
+kontak,alamat tempatnya dimana?,"Alamat kami di Jl. Laundry No.123, Jakarta Selatan."
+kontak,Bisa hubungi lewat mana?,Anda bisa chat kami di WhatsApp 0812-3456-7890.
+kontak,Email perusahaannya apa?,Email resmi kami adalah layanan@laundrykita.com
+komplain,Pakaian saya rusak,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Pakaian saya rusak,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Pakaian saya rusak,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Pakaian saya rusak,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Pakaian saya rusak,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
+komplain,Ada kerusakan saat laundry,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Ada kerusakan saat laundry,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Ada kerusakan saat laundry,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Ada kerusakan saat laundry,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Ada kerusakan saat laundry,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
+komplain,Warna pakaian berubah,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Warna pakaian berubah,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Warna pakaian berubah,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Warna pakaian berubah,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Warna pakaian berubah,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
+komplain,Mau komplain hasil laundry,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Mau komplain hasil laundry,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Mau komplain hasil laundry,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Mau komplain hasil laundry,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Mau komplain hasil laundry,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
+komplain,Pelayanan kurang memuaskan,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Pelayanan kurang memuaskan,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Pelayanan kurang memuaskan,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Pelayanan kurang memuaskan,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Pelayanan kurang memuaskan,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
+komplain,Ada masalah dengan cucian saya,Silakan hubungi customer service kami untuk penanganan lebih lanjut.
+komplain,Ada masalah dengan cucian saya,Kami akan segera membantu menyelesaikan masalah Anda. Bisa jelaskan detail kerusakan?
+komplain,Ada masalah dengan cucian saya,Tim kami akan melakukan investigasi dan memberikan solusi terbaik.
+komplain,Ada masalah dengan cucian saya,Kami menjamin kualitas layanan dan akan mengganti jika ada kerusakan.
+komplain,Ada masalah dengan cucian saya,Silakan datang ke lokasi atau hubungi customer service kami untuk penanganan cepat.
